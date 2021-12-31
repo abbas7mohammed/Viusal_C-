@@ -137,7 +137,16 @@ namespace caculator
             {
                 cc = bb / aa;
             }
-            this.label1.Text = cc.ToString();
+            this.label3.Text = cc.ToString();
+            this.label1.Text = "";
+            this.label2.Text = "";
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            this.label1.Text = "";
+            this.label2.Text = "";
+            this.label3.Text = "";
         }
     }
 }
