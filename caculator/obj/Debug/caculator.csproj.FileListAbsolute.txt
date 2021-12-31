@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\caculator\caculator\bin\Debug\caculator.exe.config
+C:\Users\lenovo\source\repos\caculator\caculator\bin\Debug\caculator.exe
+C:\Users\lenovo\source\repos\caculator\caculator\bin\Debug\caculator.pdb
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.Form1.resources
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.exe
+C:\Users\lenovo\source\repos\caculator\caculator\obj\Debug\caculator.pdb
